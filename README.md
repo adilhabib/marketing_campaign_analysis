@@ -6,10 +6,7 @@ This project explores and visualizes customer response data from a multi-channel
 - What customer segments (age, education, marital status) were most responsive?
 - How does spending behavior relate to campaign acceptance?
 - Where should marketers focus future budget and effort?
-
----
-
-
+  
 ---
 
 ## 🔍 Key Insights
@@ -31,25 +28,9 @@ This project explores and visualizes customer response data from a multi-channel
 
 ---
 
-## 📸 Sample Visuals
-
-![Campaign Response by Age](visualizations/charts/response_by_age_group.png)
-![Campaign Acceptance Heatmap](visualizations/charts/campaign_heatmap.png)
-
----
-
 ## 📝 Dataset Source
 
 [Customer Personality Analysis – Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
-
----
-
-## 📌 How to Reproduce
-
-1. Clone this repo  
-2. Run `01_data_cleaning_and_eda.ipynb` to clean and engineer features  
-3. Run `02_campaign_analysis.ipynb` for campaign-level deep dive  
-4. Open `marketing_cleaned.csv` in Tableau and import the dashboard (`.twbx`)  
 
 ---
 
@@ -61,7 +42,3 @@ This project explores and visualizes customer response data from a multi-channel
 - 💻 [GitHub](https://github.com/adilhabib)
 
 ---
-
-## 📂 License
-
-This project is for educational and portfolio purposes only.
